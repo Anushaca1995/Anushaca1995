@@ -31,6 +31,6 @@ I am currently doing _nology 12 weeks training for HTML, CSS, SCSS, JS, REACT, J
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anushaca1995&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anushaca1995&theme=cobalt&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)
 
 
