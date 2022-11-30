@@ -9,7 +9,10 @@ I have alomost 2 years of work experience at 4W Technologies Ltd, Chennai, India
 
 I am currently doing _nology 12 weeks training for HTML, CSS, SCSS, JS, REACT, JAVA and Spring which is full-stack development. I worked with client-based project using React and followed Agile methodology for development process.
 
+
 ### :hammer_and_wrench: Languages and Tools :
+
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -28,6 +31,8 @@ I am currently doing _nology 12 weeks training for HTML, CSS, SCSS, JS, REACT, J
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
 
 ### :fire: My Stats :
 
