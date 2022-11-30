@@ -3,7 +3,7 @@
 
 Hi there 👋, I am Anusha Antony.
 
-A junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing in Java Script, React, Java, HTML, SCSS. I have hands-on experience in tools such as Postman, Figma, Trello, VSCode and IntelliJ.
+A junior software developer trainee <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing in Java Script, React, Java, HTML, SCSS. I have hands-on experience in tools such as Postman, Figma, Trello, VSCode and IntelliJ.
 
 I have alomost 2 years of work experience at 4W Technologies Ltd, Chennai, India as an Cache developer.
 
