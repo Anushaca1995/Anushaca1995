@@ -11,7 +11,7 @@ I am currently doing _nology 12 weeks training for HTML, CSS, SCSS, JS, REACT, J
 
 ### Client Project:
 
-[ Synergy Currency Converter ] (https://quadra-client-project.web.app/)
+[ Synergy Currency Converter ](https://quadra-client-project.web.app/)
 
 ### My Projects:
 
