@@ -12,7 +12,7 @@ I am currently doing _nology 12 weeks training for HTML, CSS, SCSS, JS, REACT, J
 
 My Projects
 
-Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
+ [ Calculator ](https://anushaca1995.github.io/Calculator/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
