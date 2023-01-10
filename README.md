@@ -13,6 +13,12 @@ I am currently doing _nology 12 weeks training for HTML, CSS, SCSS, JS, REACT, J
 My Projects
 
  [ Calculator ](https://anushaca1995.github.io/Calculator/)
+ 
+ [ Morse Code Translator ](https://anushaca1995.github.io/Morse-code-Translator/)
+  
+ [ Ticket Translator ](https://anushaca1995.github.io/Ticket_Tracker/)
+   
+ [ Punk API ](https://anushaca1995.github.io/Punk-API/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
