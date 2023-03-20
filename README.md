@@ -7,7 +7,7 @@ A junior software developer trainee <img src="https://media.giphy.com/media/WUlp
 
 I have 2 years of work experience at 4W Technologies Ltd, Chennai, India as an Cache developer.
 
-I am currently doing _nology 12 weeks training for HTML, CSS, SCSS, JS, REACT, JAVA and Spring which is full-stack development. I worked with client-based project using React and followed Agile methodology for development process.
+I completed 12 weeks training for HTML, CSS, SCSS, JS, REACT, JAVA and Spring which is full-stack development. I worked with client-based project using React and followed Agile methodology for development process.
 
 ### Client Project:
 
