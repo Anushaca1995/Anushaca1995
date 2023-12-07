@@ -1,4 +1,4 @@
-### :woman_technologist: About Me :
+### : About Me :
 
 
 Hi there 👋, I am Anusha Antony.
